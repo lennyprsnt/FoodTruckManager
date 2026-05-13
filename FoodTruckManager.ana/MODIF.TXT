@@ -1,0 +1,4 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Produit		TAR	137	nouvelle taille enregistrement : 137
+Produit	libelle	NNR	description	ATTENTION : la rubrique description a pour nouveau nom libelle
+Produit	photo	RUB+		photo est une nouvelle rubrique

@@ -1,0 +1,6 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Produit		NFI		nouvelle table
+Commande		NFI		nouvelle table
+LignedeCommande		NFI		nouvelle table
+Contrainte_Commande_LignedeCommande		NWL	Commande (IDCommande) et LignedeCommande (IDCommande)	Nouvelle liaison entre les tables Commande (IDCommande) et LignedeCommande (IDCommande)
+Contrainte_Produit_LignedeCommande		NWL	Produit (IDProduit) et LignedeCommande (IDProduit)	Nouvelle liaison entre les tables Produit (IDProduit) et LignedeCommande (IDProduit)

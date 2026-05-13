@@ -1,0 +1,10 @@
+*.SEM
+*.sem
+*.log
+*.cache
+Exe/
+Sauvegarde/
+*.wdp.cache
+*.wdw.cache
+*.wpw.cache
+desktop.ini
